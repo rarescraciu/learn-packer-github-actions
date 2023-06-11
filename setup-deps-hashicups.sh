@@ -1,7 +1,7 @@
 #!/bin/bash
 set -eu -o pipefail
 
-# Install necessary dependencies
+# Install necessary dependenciessssss
 sudo apt-get update
 sudo apt-get -y -qq install ca-certificates curl gnupg lsb-release
 sudo mkdir -p /etc/apt/keyrings
